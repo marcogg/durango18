@@ -2630,7 +2630,7 @@ body.dark .header.header-fixed .logo a img.logo-dark {
 ---------------------------------------- */
 
 .facts {
-    background-image: url("../img/sections/sec-02.jpg");
+    background-color: #00745A;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -3840,7 +3840,7 @@ body.dark.blog-page .banner-blog-post .meta {
 
 .footer {
     padding: 40px 0;
-    background-color: #0d4373;
+    background-color: #00745A;
 }
 
 .footer .container {
@@ -4259,7 +4259,7 @@ body.dark.blog-page .banner-blog-post .meta {
 }
 
 .btn-cta {
-    background-color: #0d4373;
+    background-color: #00745A;
     padding: 1% 2%;
     color: white;
     border-radius: 15px;
