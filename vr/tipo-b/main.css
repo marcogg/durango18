@@ -59,7 +59,7 @@ select {
 }
 
 .img-thumbnail {
-    width: 80px !important;
+    max-width: 150px !important;
 }
 
 .container.display-1 .row {
@@ -74,5 +74,9 @@ select {
     }
     .container.display-1 .img-thumbnail {
         max-width: 40px !important;
+    }
+    .img-thumbnail {
+        width: 80px !important;
+        padding: 2px !important;
     }
 }
